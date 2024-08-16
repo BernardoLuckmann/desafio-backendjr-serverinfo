@@ -1,0 +1,1 @@
+Backend de um servidor criado utilizando Typescript, Prisma ORM e MongoDB.
